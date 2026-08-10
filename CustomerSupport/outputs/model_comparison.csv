@@ -1,0 +1,5 @@
+Model,Accuracy
+Naive Bayes,99.09
+Logistic Regression,99.29
+Linear SVM,99.4
+Random Forest,98.98
